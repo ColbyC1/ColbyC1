@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColbyC1
-- 👀 I’m interested in ... DATA ANALYTICS, SQL
-- 🌱 I’m currently learning ... SQL on diff. platforms to gain more knowledge
-- 💞️ I’m looking to collaborate on ... mentor / anything to help boost portoflio
+- 👀 I’m interested in ... DATA ANALYTICS, PYTHON, SQL
+- 🌱 I’m currently learning ... SQL/Python on diff. platforms to gain more knowledge
+- 💞️ I’m looking to collaborate on ... anything to help boost portoflio/willing to learn and create
 - 📫 How to reach me ... colbycanselo@gmail.com
 
 <!---
